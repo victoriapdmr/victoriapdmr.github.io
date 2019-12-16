@@ -101,14 +101,14 @@ h1 {
 
 .tabs>label:hover {
   color: rgba(100,0,100,1);
-  background: rgba(207, 201, 242, 1);
+  background: rgba(60, 60, 60, 1);
 }
   
 .tabs>input:checked + label {
     color: rgba(23, 30,20,1);
     border: 1px solid #C0C0C0;
     border-bottom: 1px solid #FFFFFF;
-    background: rgba(232, 220, 235, 1);
+    background: rgba(0, 0, 255, 1);
 }
 
 #lab1:checked ~ #block1,
@@ -123,11 +123,11 @@ h1 {
   font-size: 18px;
   line-height: 29px;
   padding-left: 50px; 
-  color: rgba(87, 81, 122, 1);
+  color: rgba(20, 20, 100, 1);
 }
 
 #href:hover{
   padding: 10px;
-  color: rgba(255,0,0,1);
+  color: rgba(0,255,0,1);
   
 }
