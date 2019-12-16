@@ -101,7 +101,7 @@ h1 {
 
 .tabs>label:hover {
   color: rgba(60,60,60,1);
-  background: rgba(255, 148, 82, 1);
+  background: rgba(255, 148, 150, 1);
 }
   
 .tabs>input:checked + label {
